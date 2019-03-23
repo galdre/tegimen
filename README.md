@@ -13,3 +13,4 @@ Black magic:
   (sh ls ~@(map (partial str "-")
                 flags))))
 ```
+What could possibly go wrong?
